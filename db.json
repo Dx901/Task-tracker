@@ -19,78 +19,16 @@
       "reminder": false
     },
     {
-      "text": "Test ",
-      "day": "May 7th",
+      "text": "Meeting at my pace",
+      "day": "Wednesday 4pm",
       "reminder": true,
       "id": 4
     },
     {
-      "text": "Test 2",
-      "day": "May 9th",
+      "text": "Go to the Gym",
+      "day": "Monday 10AM",
       "reminder": false,
       "id": 5
-    },
-    {
-      "text": "ffdvdv",
-      "day": "kbj,",
-      "id": 6
-    },
-    {
-      "text": "vdxxddfgxf",
-      "day": "kgjkhbkb",
-      "reminder": false,
-      "id": 7
-    },
-    {
-      "text": "ncbfgtrgrt",
-      "day": "fdggfhrhgr",
-      "reminder": true,
-      "id": 8
-    },
-    {
-      "text": "fdsgfdg",
-      "day": "gfrt",
-      "reminder": false,
-      "id": 9
-    },
-    {
-      "text": "ygtfdytf",
-      "day": "kjhvhgvh",
-      "id": 10,
-      "reminder": true
-    },
-    {
-      "text": "dcsacsasd",
-      "day": "dcsacaa",
-      "id": 11,
-      "reminder": true
-    },
-    {
-      "text": "jlyfkbk",
-      "day": "jkv,bm",
-      "id": 12
-    },
-    {
-      "text": "jlyfkbk",
-      "day": "kgjkhbkb",
-      "id": 13
-    },
-    {
-      "text": "vdxxddfgxf",
-      "day": "kbj,",
-      "reminder": true,
-      "id": 14
-    },
-    {
-      "text": "ffdvdv",
-      "day": "kgjkhbkb",
-      "id": 15,
-      "reminder": true
-    },
-    {
-      "text": "ffdvdv",
-      "day": "kgjkhbkb",
-      "id": 16
     }
   ]
 }
